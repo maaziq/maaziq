@@ -36,7 +36,7 @@ I'm a fresher Java backend developer specializing in secure, layered Spring Boot
 
 ```bash
 ROLE      : Java Backend Developer (Fresher)
-EXPERIENCE: 0 YOE — project-driven, no formal work experience yet
+EXPERIENCE: Project-driven Experience
 DOMAIN    : Logistics & Warehouse Management, Banking/FinTech, E-Commerce
 STACK     : Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, PostgreSQL, Redis, React.js
 OPEN_TO   : Entry-Level Java Backend Developer, Full-Stack Software Engineer
