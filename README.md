@@ -92,15 +92,24 @@ A RESTful backend application for managing books and book-related operations.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
+- 🔭 Currently working on **Spring Boot & Java backend projects**
+- 🌱 Learning **Spring Security, React, AWS & System Design**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building REST APIs and scalable backend applications
+- 📦 Working with **MySQL, PostgreSQL, Redis & JPA**
+- 🔧 Using **Git & GitHub** for version control and collaboration
 
-![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaziq&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maaziq&layout=compact&theme=tokyonight&hide_border=true)
+## 📌 Featured Repositories
 
-</div>
+| Project | Technology | Description |
+|---|---|---|
+| 📦 [Logicore](https://github.com/maaziq/springboot-logicore) | Java, Spring Boot, MySQL | Delivery & warehouse management system |
+| 📚 [Book Store Management](https://github.com/maaziq/Book-Store-Management) | Java, Spring Boot, SQL | RESTful book management backend |
+
 
 ---
 
